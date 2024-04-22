@@ -1,4 +1,4 @@
-# flowercloud机场官网地址
+# flowercloud花云机场官网地址
 
 最新地址：[huacloud.dev](https://flowercloud.net/aff.php?aff=4046)
 
@@ -8,11 +8,11 @@ FlowerCloud机场集成国内多家运营商网络，采用BGP智能分配线路
 
 ## flowercloud优惠码
 
-【9月优惠】 **MY3A2WTFXH**   
+【4月优惠】 **MY3A2WTFXH**   
 
-09月01日 0:00 —- 09月30日 23:59
+04月01日 0:00 —- 09月30日 23:59
 
-全场 85 折，不包括 Air / 企业套餐，此优惠码每个账号仅限使用1次。
+全场 85 折，包括 Air / 企业套餐，此优惠码每个账号仅限使用1次。
 
 
 ## 特色
