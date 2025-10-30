@@ -8,7 +8,7 @@ FlowerCloud机场集成国内多家运营商网络，采用BGP智能分配线路
 
 ## flowercloud优惠码
 
-【4月优惠】 **MY3A2WTFXH**   
+【11月优惠】 **MY3A2WTFXH**   
 
 01月01日 0:00 —- 12月30日 23:59
 
