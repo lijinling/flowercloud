@@ -1,6 +1,6 @@
 # flowercloud花云机场官网地址
 
-最新地址：[huacloud.dev](https://flowercloud.net/aff.php?aff=4046)
+最新地址：[huacloud.dev](https://api-flowercloud.com/aff.php?aff=4046)
 
 ## flowercloud简介
 
